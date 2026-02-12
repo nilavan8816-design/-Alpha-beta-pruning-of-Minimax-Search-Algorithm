@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: DIKSHA M    </h3>
-<h3>Register Number: 212224060067       </h3>
+<h3>Name: Ponnilavan N    </h3>
+<h3>Register Number: 212224060186       </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
